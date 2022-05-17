@@ -1,4 +1,4 @@
-### Hi there, This is [khaoula khemiri](https://khaoula-khemiri-em2ckcwhj-khaoula-khemiri.vercel.app/) 👋
+### Hi there, This is [khaoula khemiri](https://khaoula-khemiri.github.io/) 👋
 
 I'm a Developer
 ### About Me 🚀
@@ -6,5 +6,5 @@ I'm a Developer
 
 - 🔭 Now I’m working on Full-Stack Development!
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me [🌐](https://khaoula-khemiri-em2ckcwhj-khaoula-khemiri.vercel.app/)
+- 📫 How to reach me [🌐](https://khaoula-khemiri.github.io/)
 
